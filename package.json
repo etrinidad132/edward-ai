@@ -5,6 +5,7 @@
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js",
+    "server:debug": "nodemon --inspect bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

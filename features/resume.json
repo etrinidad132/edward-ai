@@ -1,0 +1,23 @@
+
+
+{
+    "fName": "Edward",
+    "lName": "Trinidad",
+    "number": "646-248-1099",
+    "email": "edward.trinidad132@gmail.com",
+    "linkedIn": "https://www.linkedin.com/in/edward-trinidad",
+    "education": [
+        {
+            "name": "App Academy",
+            "description": "Full time full stack software engineering bootcamp with over 1000 curriculum hours and < 3% acceptance rate.",
+            "timeline": "Jan 2020 - May 2020"
+        },
+        {
+            "name": "The Grove School of Engineering (CUNY CCNY)",
+            "description": "Computer Science undergrad.",
+            "timeline": "2008-2009"
+        }
+    ],
+    "techStack": 
+
+}
