@@ -1,5 +1,3 @@
-
-
 {
     "fName": "Edward",
     "lName": "Trinidad",
@@ -18,6 +16,26 @@
             "timeline": "2008-2009"
         }
     ],
-    "techStack": 
+    "techStack": [
+      "JavaScript",
+      "Ruby",
+      "Rails",
+      "React",
+      "Redux",
+      "SCSS / SASS",
+      "CSS3",
+      "HTML",
+      "Websockets",
+      "Socket.io",
+      "MongoDB",
+      "Express",
+      "Node",
+      "SQL",
+      "jQuery",
+      "Postgres",
+      "SQLite3",
+      "D3",
+      "Git"
+    ]
 
 }
